@@ -1,0 +1,23 @@
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.deps.json
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.csprojAssemblyReference.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.csproj.CoreCompileInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.AssemblyInfoInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.AssemblyInfo.cs
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApp\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.deps.json
+C:\XamarinApp\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.dll
+C:\XamarinApp\02-Presentation\Mobile\bin\Debug\netstandard2.0\Mobile.pdb
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.csproj.CoreCompileInputs.cache
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.AssemblyInfoInputs.cache
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.AssemblyInfo.cs
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.dll
+C:\XamarinApp\02-Presentation\Mobile\obj\Debug\netstandard2.0\Mobile.pdb

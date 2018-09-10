@@ -1,0 +1,26 @@
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Services.Http.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Services.Http.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Core.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Core.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csprojAssemblyReference.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csproj.CoreCompileInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csproj.CopyComplete
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Services.Http.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Services.Http.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Core.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Binding.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Core.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Localization.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Platform.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\Mobile.Core.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Binding.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Core.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Localization.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\bin\Debug\MvvmCross.Platform.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csprojAssemblyReference.cache
+C:\XamarinApp\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csproj.CoreCompileInputs.cache
+C:\XamarinApp\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.csproj.CopyComplete
+C:\XamarinApp\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.dll
+C:\XamarinApp\01-Core\Mobile.Services.Http\obj\Debug\Mobile.Services.Http.pdb

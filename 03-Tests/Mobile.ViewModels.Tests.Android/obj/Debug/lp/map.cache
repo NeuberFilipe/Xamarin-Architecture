@@ -1,0 +1,6 @@
+Mobile.Core
+Mobile.Services.Realm
+Mobile.ViewModels
+Newtonsoft.Json
+System.Runtime
+Xamarin.Android.NUnitLite

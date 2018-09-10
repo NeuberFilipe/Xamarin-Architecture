@@ -1,0 +1,48 @@
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.dll.config
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\AutoMapper.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Core.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.DataBinding.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.Sync.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Core.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.DataBinding.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\Realm.Sync.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\bin\Debug\AutoMapper.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csprojAssemblyReference.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csproj.CoreCompileInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csproj.CopyComplete
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.dll.config
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Services.Realm.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\AutoMapper.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Core.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Binding.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Core.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Localization.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Platform.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.DataBinding.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.Sync.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\System.ComponentModel.Primitives.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Mobile.Core.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Binding.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Core.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Localization.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\MvvmCross.Platform.pdb
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.xml
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.DataBinding.xml
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\Realm.Sync.xml
+C:\XamarinApp\01-Core\Mobile.Services.Realm\bin\Debug\AutoMapper.xml
+C:\XamarinApp\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csprojAssemblyReference.cache
+C:\XamarinApp\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csproj.CoreCompileInputs.cache
+C:\XamarinApp\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.csproj.CopyComplete
+C:\XamarinApp\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.dll
+C:\XamarinApp\01-Core\Mobile.Services.Realm\obj\Debug\Mobile.Services.Realm.pdb

@@ -1,0 +1,68 @@
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.dll.config
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\AutoMapper.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Core.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Binding.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Core.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Localization.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Platform.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Splat.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Realm.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Realm.DataBinding.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.dll.config
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Core.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\AutoMapper.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Platform.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Core.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Binding.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Localization.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Realm.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\bin\Debug\Realm.DataBinding.xml
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csprojAssemblyReference.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csproj.CopyComplete
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.dll.config
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.ViewModels.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\AutoMapper.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Core.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Binding.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Core.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Localization.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Platform.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Splat.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\System.ComponentModel.Primitives.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Realm.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Realm.DataBinding.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Services.Realm.dll.config
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Mobile.Core.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\AutoMapper.xml
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Binding.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Core.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Localization.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\MvvmCross.Platform.pdb
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Realm.xml
+C:\XamarinApp\01-Core\Mobile.ViewModels\bin\Debug\Realm.DataBinding.xml
+C:\XamarinApp\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csprojAssemblyReference.cache
+C:\XamarinApp\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csproj.CoreCompileInputs.cache
+C:\XamarinApp\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.csproj.CopyComplete
+C:\XamarinApp\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.dll
+C:\XamarinApp\01-Core\Mobile.ViewModels\obj\Debug\Mobile.ViewModels.pdb

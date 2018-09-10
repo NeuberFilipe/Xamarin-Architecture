@@ -1,0 +1,20 @@
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\bin\Debug\Mobile.Svg.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\bin\Debug\Mobile.Svg.pdb
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.csprojAssemblyReference.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.csproj.CoreCompileInputs.cache
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.dll
+C:\Users\Neuber Coelho\Documents\Coisas Importantes\Pessoal\Projetos\XamarinArchitecture\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\Mobile.Svg.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\Mobile.Svg.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Binding.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Core.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Localization.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Platform.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Binding.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Core.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Localization.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\bin\Debug\MvvmCross.Platform.pdb
+C:\XamarinApp\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.csproj.CoreCompileInputs.cache
+C:\XamarinApp\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.csproj.CopyComplete
+C:\XamarinApp\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.dll
+C:\XamarinApp\02-Presentation\Mobile.Svg\obj\Debug\Mobile.Svg.pdb
