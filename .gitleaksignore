@@ -1,0 +1,4 @@
+# .gitleaksignore - falsos positivos revisados manualmente (868kjundd)
+# Formato: commit:arquivo:regra:linha
+# Falso positivo: atributo Token publico do machine.config do Mono/Xamarin (arquivo gerado em obj/), nao e segredo.
+cd25779f612a4aa6bd4482505536600a37137702:02-Presentation/Mobile.Android/obj/Debug/MonoAndroid81/android/assets/machine.config:generic-api-key:209
